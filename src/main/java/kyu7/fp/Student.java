@@ -1,4 +1,4 @@
-package kyu7;
+package kyu7.fp;
 
 public class Student {
     private final String firstName;
